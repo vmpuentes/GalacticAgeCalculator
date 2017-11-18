@@ -12,7 +12,7 @@ An application that determines a user’s age based on a planet’s solar years.
 
 | Behavior  | Input  | Output  |
 |---|---|---|
-|1.
+|1.A user can enter their birthdate and click on the calculate button and get their corresponding planetary Age. | user enters their birthday and hits calculate. | their age for each planet appears. |
 
 ## Getting Started
 

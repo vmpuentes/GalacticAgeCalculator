@@ -1,5 +1,5 @@
 {
-  "name": "galacticagecalculator-js",
+  "name": "galacticagecalculator",
   "version": "1.0.0",
   "description": "An application that determines a user’s age based on a planet’s solar years.",
   "main": "gulp.js",
@@ -9,10 +9,29 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.18.13",
     "browserify": "^14.5.0",
+    "del": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "jasmine": "^2.8.0",
+    "jasmine-core": "^2.8.0",
+    "js": "^0.1.0",
+    "jshint": "^2.9.5",
+    "karma": "^1.7.1",
+    "karma-browserify": "^5.1.2",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-cli": "^1.0.1",
+    "karma-jasmine": "^1.1.0",
+    "karma-jasmine-html-reporter": "^0.2.2",
+    "karma-jquery": "^0.2.2",
+    "karma-requirejs": "^1.1.0",
+    "package": "^1.0.1",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.9.0"
-  }
+  },
+  "dependencies": {}
 }
